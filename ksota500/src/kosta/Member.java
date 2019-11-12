@@ -7,5 +7,6 @@ public class Member {
 	int d;
 	int f;
 	int e;
+	int g;
 
 }
