@@ -5,5 +5,6 @@ public class Member {
 	int b;
 	int c;
 	
-	int e;
+	
+	
 }
